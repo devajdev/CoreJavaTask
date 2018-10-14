@@ -1,0 +1,10 @@
+121~Devaj~Dev~15-03-1990~Hyderabad~10000
+122~Madhusudan~Yadav~20-06-2000~Delhi~5000
+123~Ravi~Raj~21-04-1980~Banglore~12500
+124~Aman~Anand~15-01-2005~Mumbai~15100
+125~Gautam~Kumar~28-10-1986~Bhopal~12130
+126~Subhash~Yadav~10-07-1996~Patna~15000
+127~Ajay~Singh~29-03-2010~Chennai~18200
+128~Rahul~Sharma~30-01-1994~Indore~20000
+129~Abhishek~Raja~20-08-1999~Rajkot~40000
+130~Mohit~Prajapati~01-09-1998~Goa~35600
